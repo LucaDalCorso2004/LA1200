@@ -53,7 +53,7 @@ Die Infomation  die ich brauchte, um einen Random nummber genrator zu machen ist
 * Das ich mir 15 Minuten Pause machen
 
 #Verifikation 
-* 1 Erfüllt schau auf Zeille 41 und drücke den Link, wp als Wort Video darstellt.
+* 1 Erfüllt schau auf Zeille 41 und drücke den Link, wo als Wort Video darstellt.
 * 2 Erfüllt schau auf Zeile 23 ist ein Video wie ich zeig, dass ich mit bool arbeite
 * 3 Erfüllt lesen von Zeille 26 bis 37 denn Text durch und die Bilder anschauen
 
