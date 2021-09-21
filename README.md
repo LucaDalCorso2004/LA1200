@@ -1,8 +1,7 @@
 Welcome to my first progam
 
 ---
-Layout: post
-title: Random nummber guesser game with C#.
+Random nummber guesser game with C#.
 ---
 ## Aufgabenstellung
 Das ist mein erstes Programm , wo es um  eine Random Guessuer Game ist.
