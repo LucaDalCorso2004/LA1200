@@ -20,7 +20,7 @@ Ziel
 
 # Inhalt 1
 
-[![description](http://img.youtube.com/vi/4ZdiCjVk-sQ/0.jpg)](https://www.youtube.com/watch?v=MtC5P71g8kQ)
+[![description](http://img.youtube.com/vi/MtC5P71g8kQ/0.jpg)](https://www.youtube.com/watch?v=MtC5P71g8kQ)
 
 # Inhalt 2
 Um  mit if braucht man int ein mal der der Randomnummber ![image](https://user-images.githubusercontent.com/89087875/134175954-ef84725e-6f28-41b3-9ea3-0f72b2b1b51d.png)
